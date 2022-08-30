@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Author": "Haplo064",
+    "Name": "PixelPerfect",
+    "Description": "See the snapshot point.",
+    "InternalName": "PixelPerfect",
+    "AssemblyVersion": "2.0.0.2",
+    "TestingAssemblyVersion": "2.0.0.2",
+    "RepoUrl": "https://github.com/matthew-j-clark/PixelPerfect",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 69421,
+    "DownloadLinkInstall": "https://github.com/matthew-j-clark/PixelPerfect/releases/download/1.0/PixelPerfect.zip",
+    "DownloadLinkTesting": "https://github.com/matthew-j-clark/PixelPerfect/releases/download/1.0/PixelPerfect.zip",
+    "DownloadLinkUpdate": "https://github.com/matthew-j-clark/PixelPerfect/releases/download/1.0/PixelPerfect.zip",
+    "IconUrl": ""
+  }
+]
